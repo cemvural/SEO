@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="tr" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>DİNAMİK TITLE</title>
+<meta name="title" content="DİNAMİK TITLE" />
+<meta name="description" content="DİNAMİK META AÇIKLAMA" />
+<base href="DİNAMİK URL" />
+<link href="DİNAMİK URL" rel="canonical" />
+<meta id="viewport" name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, width=device-width">
+<link rel="sitemap" type="sitemap" title="sitemap" href="sitemap.xml" />
+<meta http-equiv="content-language" content="tr" />
+<meta name="classification" content="Istanbul Shuttle Port" />
+<meta name="copyright" content="Copyright (©) 2022 www.istanbulshuttleport.com" />
+<meta name="robots" content="index, follow" />
+<meta name="author" content="Istanbul Shuttle Port">
+
+<meta property="og:title" content="DİNAMİK TITLE" />
+<meta property="og:type" content="Website" />
+<meta property="og:url" content="DİNAMİK URL" />
+<meta property="og:image" content="https://www.istanbulshuttleport.com/images/vrc-transport_logo.png" />
+<meta property="og:site_name" content="Istanbul Shuttle Port" />
+<meta property="og:description" content="DİNAMİK META AÇIKLAMA" />
+<link href="images/favicon.png" rel="icon" />
+
+<link rel="alternate" href="https://www.istanbulshuttleport.com/tr" hreflang="tr" />
+<link rel="alternate" href="https://www.istanbulshuttleport.com/en" hreflang="en" />
+<link rel="alternate" href="https://www.istanbulshuttleport.com/ar" hreflang="ar" />
