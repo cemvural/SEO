@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="tr" xmlns:fb="http://ogp.me/ns/fb#">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta charset="utf-8">
 <title>DİNAMİK TITLE</title>
 <meta name="title" content="DİNAMİK TITLE" />
 <meta name="description" content="DİNAMİK META AÇIKLAMA" />
 <base href="DİNAMİK URL" />
 <link href="DİNAMİK URL" rel="canonical" />
-<meta id="viewport" name="viewport" content="initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, width=device-width">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 <link rel="sitemap" type="sitemap" title="sitemap" href="sitemap.xml" />
 <meta http-equiv="content-language" content="tr" />
 <meta name="classification" content="Istanbul Shuttle Port" />
@@ -18,7 +18,7 @@
 <meta property="og:title" content="DİNAMİK TITLE" />
 <meta property="og:type" content="Website" />
 <meta property="og:url" content="DİNAMİK URL" />
-<meta property="og:image" content="https://www.istanbulshuttleport.com/images/vrc-transport_logo.png" />
+<meta property="og:image" content="BÜYÜK KARE LOGO TAM LİNK(Site adresiyle beraber)" />
 <meta property="og:site_name" content="Istanbul Shuttle Port" />
 <meta property="og:description" content="DİNAMİK META AÇIKLAMA" />
 <link href="images/favicon.png" rel="icon" />
