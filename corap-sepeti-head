@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="tr" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<meta charset="utf-8">
+<title>DİNAMİK TITLE</title>
+<meta name="title" content="DİNAMİK TITLE" />
+<meta name="description" content="DİNAMİK META AÇIKLAMA" />
+<base href="DİNAMİK URL" />
+<link href="DİNAMİK URL" rel="canonical" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<link rel="sitemap" type="sitemap" title="sitemap" href="sitemap.xml" />
+<meta http-equiv="content-language" content="tr" />
+<meta name="classification" content="Çorap Sepeti" />
+<meta name="copyright" content="Copyright (©) 2022 www.corapsepeti.com" />
+<meta name="robots" content="index, follow" />
+<meta name="author" content="Çorap Sepeti">
+
+<meta property="og:title" content="DİNAMİK TITLE" />
+<meta property="og:type" content="Website" />
+<meta property="og:url" content="DİNAMİK URL" />
+<meta property="og:image" content="BÜYÜK KARE LOGO TAM LİNK(Site adresiyle beraber)" />
+<meta property="og:site_name" content="Çorap Sepeti" />
+<meta property="og:description" content="DİNAMİK META AÇIKLAMA" />
+<link href="images/favicon.png" rel="icon" />
