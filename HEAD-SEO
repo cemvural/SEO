@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="tr" xmlns:fb="http://ogp.me/ns/fb#">
+<html dir="ltr" lang="en" xmlns:fb="http://ogp.me/ns/fb#">
 <head>
 <meta charset="utf-8">
 <title>DİNAMİK TITLE</title>
@@ -9,7 +9,7 @@
 <link href="DİNAMİK URL" rel="canonical" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 <link rel="sitemap" type="sitemap" title="sitemap" href="sitemap.xml" />
-<meta http-equiv="content-language" content="tr" />
+<meta http-equiv="content-language" content="en" />
 <meta name="classification" content="Istanbul Shuttle Port" />
 <meta name="copyright" content="Copyright (©) 2022 www.istanbulshuttleport.com" />
 <meta name="robots" content="index, follow" />
@@ -23,6 +23,6 @@
 <meta property="og:description" content="DİNAMİK META AÇIKLAMA" />
 <link href="images/favicon.png" rel="icon" />
 
+<link rel="alternate" href="https://www.istanbulshuttleport.com/" hreflang="x-default" />
+<link rel="alternate" href="https://www.istanbulshuttleport.com/" hreflang="en" />
 <link rel="alternate" href="https://www.istanbulshuttleport.com/tr" hreflang="tr" />
-<link rel="alternate" href="https://www.istanbulshuttleport.com/en" hreflang="en" />
-<link rel="alternate" href="https://www.istanbulshuttleport.com/ar" hreflang="ar" />
